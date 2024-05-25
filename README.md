@@ -1,25 +1,20 @@
-<h1>Hi, I'm Paul <br/><a href="https://github.com/pkomu">AWS Cloud Architect</a>
-<h2>👨‍💻 AWS Cloud Projects:</h2>
+Hi there👋
+I'm Paul, a passionate AWS Cloud Architect with expertise in architecting scalable and resilient solutions. Explore my projects to see how I leverage AWS services to build innovative cloud solutions.
+ 
+## 👨‍💻 AWS Cloud Projects:
 - Deploying a Scalable Web Application with AWS
 
-<h2> 🏆 Certifications</h2>
+## 🏆 Certifications
 - AWS Solution Architect Associate <br>
 - AWS Cloud Practitioner<br> 
 - Azure Fundamentals<br>
 - Aviatrix - Multicloud Network Engineer Associate<br>
 
-<h2>📑 Accademic Qualifications</h2>
+## 📑 Accademic Qualifications
 - Bachelor of Science Information Technology<br> 
 - Higher Diploma Management of Information Systems<br>
- 
 
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
