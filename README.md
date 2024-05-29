@@ -1,4 +1,4 @@
-![Paul Komu](https://github.com/pkomu/pkomu/blob/main/download.jfif) 
+![Paul Komu](https://github.com/pkomu/pkomu/blob/main/cloud-computing.jpg) 
 
 Hi there👋
 I'm Paul, 
