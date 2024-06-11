@@ -5,7 +5,7 @@
 A passionate AWS Cloud Architect with expertise in architecting scalable and resilient solutions. Explore my projects to see how I leverage AWS services to build innovative cloud solutions.
  
 ## 👨‍💻 AWS Cloud Projects:
-- Deploying a Scalable Web Application with AWS
+- Design and Build a Scalable VPC for a startup running a 3 tier web application. 
 
 ## 🏆 Certifications
 - AWS Solution Architect Associate <br>
