@@ -5,7 +5,7 @@
 A passionate AWS Cloud Architect with expertise in architecting scalable and resilient solutions. Explore my projects to see how I leverage AWS services to build innovative cloud solutions.
  
 ## 👨‍💻 AWS Cloud Projects:
-[- Static Website Hosting on AWS with CloudFormation.](https://github.com/pkomu/Design-and-Build-Scalable-VPC-for-a--Multi-Tier-Web-Application.git) 
+[- Static Website Hosting on AWS with CloudFormation.](https://github.com/pkomu/secure-s3-static-site-on-aws.git) 
 
 ## 🏆 Certifications
 - AWS Solution Architect Associate <br>
